@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HfjzMvjb3s8g06/DFT+l362f+0ITNbnT5rRhN8C4Lal/7Sz7Gj1UjxG87cKWfL2CWQO5inhjlcfvuDpzVKbXOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DSA2.3\\DSA2.3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
